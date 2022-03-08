@@ -3,10 +3,13 @@ body{
     text-align: center; 
 }
 table {
-    margin: 10px auto;
+    margin: 5px auto;
+    border-radius: 20px;
+    background-color: black;
+    text-align: center;
 }
 a{
-    color: black;
+    color: #F0FFF0;
     text-decoration: none;
 }
 #info{
@@ -25,7 +28,7 @@ p{
     text-align: left;
 }
 a:visited{
-    color: red;
+    color: aliceblue;
 }
 .bg-DarkGray{
     background: #A9A9A9;
