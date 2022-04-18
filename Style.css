@@ -69,3 +69,15 @@ table {
 .container4{
     text-align: center;
 }
+a.button{
+    display: inline-block;
+    background: #B0E0E6;
+    color: #fff;
+    padding: 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 100;
+}
