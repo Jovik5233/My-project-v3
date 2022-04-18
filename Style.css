@@ -9,7 +9,7 @@ table {
     text-align: center;
 }
 a{
-    color: #F0FFF0;
+    color: #CAE5FF;
     text-decoration: none;
 }
 #info{
@@ -24,7 +24,7 @@ p{
     text-align: left;
 }
 a:visited{
-    color: aliceblue;
+    color:#CAE5FF;
 }
 .bg-DarkGray{
     background: #A9A9A9;
